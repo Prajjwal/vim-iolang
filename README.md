@@ -20,6 +20,13 @@ $ cd ~/.vim/bundle
 $ git clone https://github.com/Prajjwal/vim-iolang.git
 ```
 
+Alternatively, if you have your `~/.vim` checked into git, add `vim-iolang` as a
+submodule:
+
+```bash
+git submodule add https://github.com/Prajjwal/vim-iolang.git path/to/bundle/vim-iolang
+```
+
 ### Manual
 
 Download the latest zip
